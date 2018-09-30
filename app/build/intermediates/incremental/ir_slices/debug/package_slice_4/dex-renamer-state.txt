@@ -1,0 +1,4 @@
+#Sun Sep 30 18:04:41 BRT 2018
+base.0=C\:\\Users\\marcelo\\Desktop\\DPs\\Android\\Atividades\\HoradaPipoca - 2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
